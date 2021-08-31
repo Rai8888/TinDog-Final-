@@ -1,3 +1,3 @@
 # TinDog-Final-
 Intermediate Bootstrap
-https://github.com/Raiska8/TinDog-Final-.git
+https://raiska8.github.io/TinDog-Final-/
